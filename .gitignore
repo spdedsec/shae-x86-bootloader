@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.bin
+*.o
+*.img
+*.iso
+*.log
+
+# Temporary and editor files
+*~
+*.swp
+*.swo
+.DS_Store
